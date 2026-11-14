@@ -13,5 +13,5 @@ A simple Python command-line application built using **OpenCV** that allows user
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/KESHAVGUPTA-00/opencv-image-annotator.git](https://github.com/KESHAVGUPTA-00/opencv-image-annotator.git)
-   cd opencv-image-annotator
+   git clone https://github.com/KESHAVGUPTA-00/OpenCV-Projects.git
+   cd OpenCV-Projects
